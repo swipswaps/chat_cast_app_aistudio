@@ -1,0 +1,5 @@
+{
+  "name": "Chat Cast Studio (Frontend)",
+  "description": "A frontend application for monitoring and summarizing chat from manual input or uploaded logs, powered by Google Gemini API. Features AI-driven summarization and text-to-speech for summaries.",
+  "requestFramePermissions": []
+}
